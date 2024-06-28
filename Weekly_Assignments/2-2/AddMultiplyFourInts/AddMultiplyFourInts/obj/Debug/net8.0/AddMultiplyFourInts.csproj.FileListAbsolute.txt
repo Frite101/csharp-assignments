@@ -1,0 +1,14 @@
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\net8.0\AddMultiplyFourInts.exe
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\net8.0\AddMultiplyFourInts.deps.json
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\net8.0\AddMultiplyFourInts.runtimeconfig.json
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\net8.0\AddMultiplyFourInts.dll
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\net8.0\AddMultiplyFourInts.pdb
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.AssemblyInfoInputs.cache
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.AssemblyInfo.cs
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.csproj.CoreCompileInputs.cache
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.dll
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\refint\AddMultiplyFourInts.dll
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.pdb
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\AddMultiplyFourInts.genruntimeconfig.cache
+C:\Users\yahoo\source\repos\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\net8.0\ref\AddMultiplyFourInts.dll
